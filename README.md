@@ -30,7 +30,7 @@ Este repositório contém um projeto de análise de dados baseado em Python e Ju
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/google-playstore-analysis.git
+   git clone https://github.com/Nicolas-Wender/Google-Playstore-Analysis.git
    ```
 
 2. Navegue até o diretório do projeto:
